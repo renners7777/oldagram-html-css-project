@@ -1,0 +1,76 @@
+html, body {
+    margin-left: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'La Belle Aurore', cursive;
+}
+.flex-icons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 20px 5px 20px;
+    border-bottom: 1px solid #e5e2e2;
+}
+
+.header-image1{
+    width: 30%;
+}
+
+.header-image2{
+    width: 10%;
+    height: 10%;
+    border-radius: 50%;
+}
+
+.mini-section{
+    display: flex;  
+    margin: 25px 0px 0px 15px;
+}
+
+.youngVincent{
+    border-radius: 50%;
+    width: 15%;
+    padding-bottom: 10px;
+}
+
+.name-top{
+    font-size: 16px;
+    margin-left: 8px;
+}
+
+.address{
+    font-size: 10px;
+    display: block;
+    margin-left: 2px;
+    margin-top: 10px;
+}
+
+.vincent-painting{
+    width: 100%;
+    height: 100%;
+}
+
+.footer-icons-container{
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    margin: 15px;
+    gap: 10px;
+}
+
+.likesAndComments{
+    margin-left: 15px;
+    
+}
+
+.footer-icons{
+    width: 10%;
+}
+
+.footer-span{
+    font-size: 16px;
+}
+
+.footer-para{
+    padding-bottom: 15px;
+}
